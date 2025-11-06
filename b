@@ -310,4 +310,4 @@ def bot():
 if __name__ == "__main__":
     print("Bot SOLANA ACHAT/VENTE + MOT DE PASSE démarré...")
     threading.Thread(target=tracker, daemon=True).start()
-    bot()
+    bot() Ajout du bot
